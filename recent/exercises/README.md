@@ -1,6 +1,8 @@
+#### test
+
 ## Table of contents
 
-1. [Module of 5](#module-of-5)
+1. [Module of 5](#ex1)
 2. [Sum of 1 over n](#sum-of-1-over-n)
 3. [1 to 10 times tables](#1-10-times-tables)
 4. [Array sorting](#array-sorting)

@@ -1,0 +1,10 @@
+1.Module of 5
+2. Sum of 1 over n
+3. 1 to 10 times tables
+4. Array sorting
+5. Shopping discounts
+6. Higher profit
+7. Older than 17
+8. Age groups
+9. N times table
+10. Transactions

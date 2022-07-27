@@ -1,4 +1,3 @@
-
 Exercises covered during training at RYAZ
 
 1. Module of 5
